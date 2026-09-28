@@ -1,6 +1,13 @@
-# Booking API
+# Appointment Booking System
 
-Appointment booking REST API built with **NestJS**, **Prisma ORM**, **PostgreSQL**, and **Socket.IO** for real-time updates.
+High-concurrency appointment booking REST API built with **NestJS**, **Prisma ORM**, **PostgreSQL**, and **Socket.IO** for real-time updates.
+
+---
+
+## 🎥 Video Walkthroughs
+
+- 🇬🇧 **English Demo:** [Watch Video (Google Drive)](https://drive.google.com/file/d/1TyBNn9mI6fCscURi55YRQHUxvyP--rDx/view?usp=sharing)
+- 🇸🇦 **Arabic Demo:** [Watch Video (Google Drive)](https://drive.google.com/file/d/1HEja4NmRP9n6coWpqC7C7V1DY3XkWiM7/view?usp=drive_link)
 
 ---
 
@@ -19,8 +26,8 @@ Appointment booking REST API built with **NestJS**, **Prisma ORM**, **PostgreSQL
 ### 1. Clone & Install
 
 ```bash
-git clone <repository-url>
-cd booking-api
+git clone https://github.com/Seif1Amr/booking-system.git
+cd booking-system
 npm install
 ```
 
