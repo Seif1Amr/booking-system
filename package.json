@@ -1,5 +1,5 @@
 {
-  "name": "booking-api",
+  "name": "booking-system",
   "version": "1.0.0",
   "description": "Appointment booking API with NestJS, Prisma, PostgreSQL, and Socket.IO",
   "license": "UNLICENSED",
