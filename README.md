@@ -6,7 +6,7 @@ High-concurrency appointment booking REST API built with **NestJS**, **Prisma OR
 
 ## 🎥 Video Walkthroughs
 
-- 🇬🇧 **English Demo:** [Watch Video (Google Drive)](https://drive.google.com/file/d/1TyBNn9mI6fCscURi55YRQHUxvyP--rDx/view?usp=sharing)
+- 🇬🇧 **English Demo:** [Watch Video (Google Drive)](https://drive.google.com/file/d/1TyBNn9mI6fCscURi55YRQHUxvyP--rDx/view?usp=drive_link)
 - 🇸🇦 **Arabic Demo:** [Watch Video (Google Drive)](https://drive.google.com/file/d/1HEja4NmRP9n6coWpqC7C7V1DY3XkWiM7/view?usp=drive_link)
 
 ---
